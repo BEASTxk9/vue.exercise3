@@ -4,7 +4,7 @@ body{
 
 #app{
     margin-top: 10rem;
- background-color: white;
+ background-color: rgb(210, 175, 175);
  border-radius: 10px;
  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.7);
  width: 40%;
@@ -19,6 +19,7 @@ hr{
 }
 
 input{
+    border-radius: 10px;
     border: none;
 }
 
